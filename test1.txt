@@ -1,1 +1,5 @@
 git status - safe command, viser hva som er untracked og staget
+
+
+KJempebra <3
+
